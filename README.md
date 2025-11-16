@@ -1,6 +1,6 @@
 # Sistema de gestión de clínica veterinaria con firebase
 
-> **Versión:** 0.4 VersionFinal  
+> **Versión:** 0.5 VersionFinal  
 > **Desarrollado por:** GRUPO_PROG_2_C_1_4  
 > **Integrantes:
 > -Elmer Yovani Rodríguez de Paz 7690-22-11804, Project manager y backend
