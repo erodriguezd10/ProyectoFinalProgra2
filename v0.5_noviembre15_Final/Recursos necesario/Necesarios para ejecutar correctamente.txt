@@ -1,0 +1,5 @@
+Java JDK 8 o superior
+Apache Maven (opcional pero recomendado)
+Ejecutar el Netbeans:
+click derecho sobre el proyect ->clean and build y luego run
+debería funcionar correctamente

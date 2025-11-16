@@ -1,0 +1,8 @@
+Notas de la versión V0.5 de nuestro programa:
+
+Se completaron todos los requerimientos del proyecto
+Se completo la escritura del manual interno.
+Se completo la parte del backend.
+Se completo la parte del frontend.
+Se realizaron las pruebas correspondientes para ver la funcionalidad de nuestro programa.
+Se contavilizarón todas las versiónes existentes de nuestro programa.

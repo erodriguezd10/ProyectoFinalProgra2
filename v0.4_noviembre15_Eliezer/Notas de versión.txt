@@ -1,0 +1,39 @@
+Notas de la versión V0.4 de nuestro programa:
+Versión a cargo de el Gestor de calidad.
+Se optimizaron algunas clases para aprovechar el espacio en memoria.
+Se corrigieron erores en la parte del Fronted.
+Se limpio los mensajes de errores para una mejor experiencia de el usuario.
+Se comenzo y termina la implemetación de las siguiente validaciones:
+Validaciones generales:
+  Solo Letras (String texto)
+
+Validaciones para los clientes:
+  Validar NombreCliente (String nombre)
+  Mínimo 2 caracteres.
+  Solo letras (usa solo Letras).
+  Validar DPI (String dpi)
+  Exactamente 13 dígitos numéricos.
+  Validar Teléfono (String teléfono)
+Exactamente 8 dígitos numéricos.
+
+Validaciones para mascotas:
+  Validar Nombre Mascota (String nombre)
+  Solo letras (usa solo Letras).
+  Validar Especie (String especie)
+  Solo letras (usa solo Letras).
+  Validar Color (String color)
+  Solo letras (usa solo Letras).
+  Validar Edad (String edad  Texto)
+  Convierte  a double.
+    No permite edades negativas (<0).
+	No permite edades exageradas (>100).
+
+Validaciones para producto:
+  Validar Nombre Producto (String nombre)
+  Solo letras (usa solo Letras).
+  Validar Precio (double precio)
+  No puede ser negativo.
+  Validar Cantidad Texto (String cantidad)
+  Solo números enteros 
+  Validar Cantidad (int cantidad)
+	No puede ser negativa.
